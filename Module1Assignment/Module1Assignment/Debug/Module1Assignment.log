@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  source.c
+  Module1Assignment.vcxproj -> C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Debug\Module1Assignment.exe

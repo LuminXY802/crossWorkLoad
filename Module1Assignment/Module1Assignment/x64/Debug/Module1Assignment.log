@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  source.c
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(12,3): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(7,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(33,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(75,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(79,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\Module1Assignment\source.c(64,7): warning C4101: 'keyFileName': unreferenced local variable
+  Module1Assignment.vcxproj -> C:\Users\ryanr\OneDrive\Desktop\cFiles\Module1Assignment\x64\Debug\Module1Assignment.exe
